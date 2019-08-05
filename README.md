@@ -6,7 +6,6 @@ A simple template for a Django Rest Framework project, using postgres as DB, all
 
 ```bash
      docker-compose run app sh -c "django-admin.py startproject app ."
-     # You might change the project name : "app"
 ```
 
 2. Then you can create your modules using
